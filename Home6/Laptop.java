@@ -45,6 +45,7 @@ public class Laptop {
         return this.price;
     }
 
+    @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
         sb.append(this.hashCode());
