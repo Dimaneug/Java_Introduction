@@ -206,7 +206,7 @@ public class Main {
                     break;
             }
             if (match)
-                System.out.println(laptop.toString());
+                System.out.println(laptop);
         
         }
 
